@@ -1,5 +1,7 @@
 # AI Screenplay Writer System
-![AI Screenplay Writer Architecture](assets/Header_pic_01.png)
+<p align="center">
+  <img src="assets/Header_pic_01.png" width="800">
+</p
 
 This project is an advanced, multi-agent AI system designed to generate entire seasons of original TV series screenplays. Using a sophisticated graph-based architecture powered by LangGraph, it orchestrates a team of specialized AI agents to collaboratively write, edit, and refine each episode while preserving continuity and evolving the narrative episodically.
 
