@@ -1,4 +1,4 @@
-# AI Screenplay Writer System   
+# AI Screenplay Writer System
 <p align="center">
   <img src="assets/Header_pic_01.png" width="400">
 </p
